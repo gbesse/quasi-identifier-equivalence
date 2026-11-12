@@ -1,0 +1,24 @@
+{
+  "quasi_identifiers": [
+    "age_band",
+    "area"
+  ],
+  "sensitive_field": "condition",
+  "rows": [
+    {
+      "age_band": "20-29",
+      "area": "A",
+      "condition": "x"
+    },
+    {
+      "age_band": "20-29",
+      "area": "A",
+      "condition": "x"
+    },
+    {
+      "age_band": "30-39",
+      "area": "A",
+      "condition": "y"
+    }
+  ]
+}

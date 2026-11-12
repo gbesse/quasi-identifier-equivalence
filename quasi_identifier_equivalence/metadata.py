@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Auditer les classes de quasi-identifiants sans promettre anonymat', 'en': 'Audit quasi-identifier classes without promising anonymity', 'es': 'Auditar clases de cuasiidentificadores sin prometer anonimato'}

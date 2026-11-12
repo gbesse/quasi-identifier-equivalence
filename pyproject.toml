@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quasi-identifier-equivalence"
+version = "0.1.0a1"
+description = "FR: Auditer les classes de quasi-identifiants sans promettre anonymat | EN: Audit quasi-identifier classes without promising anonymity | ES: Auditar clases de cuasiidentificadores sin prometer anonimato"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+quasi-identifier-equivalence = "quasi_identifier_equivalence.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["quasi_identifier_equivalence*"]
